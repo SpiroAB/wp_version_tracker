@@ -1,0 +1,13 @@
+{
+  "name": "Wordpress Version Tracker",
+  "slug": "wp_version_tracker",
+  "version": "0.1.0",
+  "author": "Puggan Sundragon <puggan@spiro.se>",
+  "description": "Fetch automatic-update information by reading worpdress other plugins version.json",
+  "requires": "4.9",
+  "tested": "4.9.4",
+  "requires_php": "5.6",
+  "last_updated": "2018-04-03 10:00 CEST",
+  "homepage": "https://spiro.se/",
+  "latest_json": "https://raw.githubusercontent.com/SpiroAB/wp_version_tracker/master/version.json"
+}
