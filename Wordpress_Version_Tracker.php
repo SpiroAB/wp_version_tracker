@@ -1,10 +1,4 @@
 <?php
-	/**
-	 * Created by PhpStorm.
-	 * User: puggan
-	 * Date: 2018-04-03
-	 * Time: 10:05
-	 */
 
 	namespace SpiroAB;
 

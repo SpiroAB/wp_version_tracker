@@ -4,13 +4,13 @@
 	 *
 	 * @package WP_Version_trac
 	 * @author Puggan Sundragon <puggan@spiro.se>
-	 * @version 0.1.0
+	 * @version 1.0.0
 	 *
 	 * @wordpress-plugin
 	 * Plugin Name: Wordpress Version Tracker
 	 * Plugin URI: https://github.com/SpiroAB/isimo_wp
 	 * Description: Fetch automatic-update information by reading other worpdress plugins version.json
-	 * Version: 0.1.0
+	 * Version: 1.0.0
 	 * Author: Puggan Sundragon <puggan@spiro.se>
 	 * Author URI: https://spiro.se/
 	 */

@@ -1,7 +1,7 @@
 {
   "name": "Wordpress Version Tracker",
   "slug": "wp_version_tracker",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "Puggan Sundragon <puggan@spiro.se>",
   "description": "Fetch automatic-update information by reading worpdress other plugins version.json",
   "requires": "4.9",
