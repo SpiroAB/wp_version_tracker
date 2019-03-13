@@ -1,5 +1,5 @@
 {
-  "name": "SpiroAB/wp_version_tracker",
+  "name": "spiroab/wp_version_tracker",
   "description": "WP-cersion tracker, support version tracking for non offical pluigns",
   "type": "wordpress-plugin",
   "require": {
